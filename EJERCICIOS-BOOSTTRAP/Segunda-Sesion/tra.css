@@ -1,0 +1,21 @@
+.B1{
+    background-color:rgb(219, 241, 255) ;
+}
+
+.C1{
+    background-image: url(./Imagenes/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-color: blueviolet;
+    background-position: 23rem 0rem;
+}
+
+.C2{
+    background-color: rgb(89, 102, 128);
+}
+
+.C3{
+    background-color: rgb(28, 28, 57);
+}
+.texto{
+    font-size: 14px;
+}
